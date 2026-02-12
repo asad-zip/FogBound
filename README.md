@@ -8,7 +8,7 @@ Fogbound predicts fog conditions hours and days in advance, perfect for fog phot
 
 ## Project Status
 
-📍 **Phase 0: Foundation & Setup** - In Progress
+📍 **Phase 1: Data Collection Pipeline** - In progress
 
 ## Setup
 
@@ -55,7 +55,3 @@ fogbound/
 - [ ] Phase 6: Alerts System
 - [ ] Phase 7: AWS Deployment
 - [ ] Phase 8: Polish & Portfolio
-
-## License
-
-Personal project for learning and portfolio purposes.
