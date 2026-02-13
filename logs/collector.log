@@ -1,0 +1,164 @@
+2026-02-12 18:23:03 - src.data.collector - INFO - WeatherCollector initialized for station KPNE
+2026-02-12 18:23:03 - src.data.collector - INFO - Collection interval: 30 minutes
+2026-02-12 18:23:03 - src.data.collector - INFO - Fetching observation from KPNE...
+2026-02-12 18:23:04 - src.data.collector - ERROR - Database error: (psycopg2.errors.NumericValueOutOfRange) numeric field overflow
+DETAIL:  A field with precision 7, scale 2 must round to an absolute value less than 10^5.
+
+[SQL: INSERT INTO weather_observations (observed_at, station_id, station_name, temperature_c, dewpoint_c, dewpoint_spread_c, relative_humidity, barometric_pressure, visibility_m, wind_speed_kmh, wind_direction, wind_gust_kmh, conditions_text, cloud_coverage, created_at) VALUES (%(observed_at)s, %(station_id)s, %(station_name)s, %(temperature_c)s, %(dewpoint_c)s, %(dewpoint_spread_c)s, %(relative_humidity)s, %(barometric_pressure)s, %(visibility_m)s, %(wind_speed_kmh)s, %(wind_direction)s, %(wind_gust_kmh)s, %(conditions_text)s, %(cloud_coverage)s, %(created_at)s) RETURNING weather_observations.id]
+[parameters: {'observed_at': datetime.datetime(2026, 2, 12, 22, 54, tzinfo=datetime.timezone.utc), 'station_id': 'KPNE', 'station_name': 'https://api.weather.gov/stations/KPNE', 'temperature_c': 1.1, 'dewpoint_c': -8.3, 'dewpoint_spread_c': 9.4, 'relative_humidity': 49.53, 'barometric_pressure': 101800.0, 'visibility_m': 16090.0, 'wind_speed_kmh': 46.66, 'wind_direction': 'NW', 'wind_gust_kmh': None, 'conditions_text': 'Partly Cloudy', 'cloud_coverage': 'SCT', 'created_at': datetime.datetime(2026, 2, 12, 23, 23, 4, 68211)}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2026-02-12 18:25:59 - src.data.collector - INFO - WeatherCollector initialized for station KPNE
+2026-02-12 18:25:59 - src.data.collector - INFO - Collection interval: 30 minutes
+2026-02-12 18:25:59 - src.data.collector - INFO - Fetching observation from KPNE...
+2026-02-12 18:25:59 - src.data.collector - INFO - ✅ Observation saved: KPNE at 2026-02-12 17:54:00-05:00
+2026-02-12 18:45:42 - __main__ - INFO - WeatherCollector initialized for station KPNE
+2026-02-12 18:45:42 - __main__ - INFO - Collection interval: 30 minutes
+2026-02-12 18:45:42 - __main__ - INFO - ============================================================
+2026-02-12 18:45:42 - __main__ - INFO - 🌫️  FOGBOUND WEATHER COLLECTOR STARTED
+2026-02-12 18:45:42 - __main__ - INFO - ============================================================
+2026-02-12 18:45:42 - __main__ - INFO - Station: KPNE
+2026-02-12 18:45:42 - __main__ - INFO - Interval: 30.0 minutes
+2026-02-12 18:45:42 - __main__ - INFO - Press Ctrl+C to stop
+2026-02-12 18:45:42 - __main__ - INFO - ============================================================
+2026-02-12 18:45:42 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-12 18:45:42 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-12 18:45:42 - __main__ - INFO - Collection completed successfully
+2026-02-12 18:45:42 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-12 18:45:42 - __main__ - INFO - ------------------------------------------------------------
+2026-02-12 19:03:11 - __main__ - INFO - ======================================================================
+2026-02-12 19:03:11 - __main__ - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-12 19:03:11 - __main__ - INFO - ======================================================================
+2026-02-12 19:03:11 - __main__ - INFO - Station: KPNE
+2026-02-12 19:03:11 - __main__ - INFO - Going back: 180 days
+2026-02-12 19:03:11 - __main__ - INFO - ======================================================================
+2026-02-12 19:03:11 - __main__ - INFO - 
+Fetching: 2025-08-16 to 2025-09-05
+2026-02-12 19:03:14 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:14 - __main__ - INFO -   Inserted: 0, Duplicates: 0, Errors: 0
+2026-02-12 19:03:15 - __main__ - INFO - 
+Fetching: 2025-09-05 to 2025-09-25
+2026-02-12 19:03:15 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:15 - __main__ - INFO -   Inserted: 0, Duplicates: 0, Errors: 0
+2026-02-12 19:03:16 - __main__ - INFO - 
+Fetching: 2025-09-25 to 2025-10-15
+2026-02-12 19:03:17 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:17 - __main__ - INFO -   Inserted: 0, Duplicates: 0, Errors: 0
+2026-02-12 19:03:18 - __main__ - INFO - 
+Fetching: 2025-10-15 to 2025-11-04
+2026-02-12 19:03:19 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:19 - __main__ - INFO -   Inserted: 0, Duplicates: 0, Errors: 0
+2026-02-12 19:03:20 - __main__ - INFO - 
+Fetching: 2025-11-04 to 2025-11-24
+2026-02-12 19:03:21 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:21 - __main__ - INFO -   Inserted: 0, Duplicates: 0, Errors: 0
+2026-02-12 19:03:22 - __main__ - INFO - 
+Fetching: 2025-11-24 to 2025-12-14
+2026-02-12 19:03:23 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:23 - __main__ - INFO -   Inserted: 0, Duplicates: 0, Errors: 0
+2026-02-12 19:03:24 - __main__ - INFO - 
+Fetching: 2025-12-14 to 2026-01-03
+2026-02-12 19:03:26 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:26 - __main__ - INFO -   Inserted: 0, Duplicates: 0, Errors: 0
+2026-02-12 19:03:27 - __main__ - INFO - 
+Fetching: 2026-01-03 to 2026-01-23
+2026-02-12 19:03:27 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:27 - __main__ - INFO -   Inserted: 0, Duplicates: 0, Errors: 0
+2026-02-12 19:03:28 - __main__ - INFO - 
+Fetching: 2026-01-23 to 2026-02-12
+2026-02-12 19:03:30 - __main__ - INFO -   Retrieved 177 observations
+2026-02-12 19:03:31 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:32 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:33 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:33 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:34 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:37 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:37 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:38 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:39 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:39 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:40 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:40 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:40 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:41 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:43 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:43 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:44 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:45 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:45 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:46 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:46 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:46 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:47 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:49 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:49 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:50 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:52 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:52 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:53 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:53 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:53 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:54 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:56 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:56 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:57 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:03:57 - __main__ - INFO -   Retrieved 0 observations
+2026-02-12 19:03:57 - __main__ - INFO -   Inserted: 177, Duplicates: 0, Errors: 0
+2026-02-12 19:03:58 - __main__ - INFO - 
+Fetching: 2026-02-12 to 2026-02-12
+2026-02-12 19:07:41 - __main__ - INFO - ======================================================================
+2026-02-12 19:07:41 - __main__ - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-12 19:07:41 - __main__ - INFO - ======================================================================
+2026-02-12 19:07:41 - __main__ - INFO - Station: KPNE
+2026-02-12 19:07:41 - __main__ - INFO - Attempting to fetch last 30 days
+2026-02-12 19:07:41 - __main__ - INFO - ======================================================================
+2026-02-12 19:07:41 - __main__ - INFO - 
+Fetching observations since 2026-01-13...
+2026-02-12 19:07:42 - __main__ - INFO - Retrieved 181 observations from API
+2026-02-12 19:07:42 - __main__ - INFO - Date range: 2026-02-05T23:54:00+00:00 to 2026-02-12T22:54:00+00:00
+2026-02-12 19:07:42 - __main__ - INFO - 
+======================================================================
+2026-02-12 19:07:42 - __main__ - INFO - BACKFILL COMPLETE
+2026-02-12 19:07:42 - __main__ - INFO - ======================================================================
+2026-02-12 19:07:42 - __main__ - INFO - Total observations fetched: 181
+2026-02-12 19:07:42 - __main__ - INFO - Successfully inserted: 3
+2026-02-12 19:07:42 - __main__ - INFO - Duplicates skipped: 178
+2026-02-12 19:07:42 - __main__ - INFO - Errors: 0
+2026-02-12 19:07:42 - __main__ - INFO - ======================================================================
+2026-02-12 19:07:42 - __main__ - INFO - 
+DATABASE STATISTICS:
+2026-02-12 19:07:42 - __main__ - INFO -   Total observations: 182
+2026-02-12 19:07:42 - __main__ - INFO -   Fog events (visibility < 1km): 0
+2026-02-12 19:07:42 - __main__ - INFO -   Date range: 2026-02-05 18:54:00-05:00 to 2026-02-12 17:57:24.223695-05:00
+2026-02-12 19:07:42 - __main__ - INFO -   Coverage: 6 days
+2026-02-12 19:15:42 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-12 19:15:42 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-12 18:54:00-05:00
+2026-02-12 19:15:42 - __main__ - INFO - Collection completed successfully
+2026-02-12 19:15:42 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-12 19:15:42 - __main__ - INFO - ------------------------------------------------------------
+2026-02-12 19:48:15 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-12 19:48:15 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-12 19:48:15 - __main__ - INFO - Collection completed successfully
+2026-02-12 19:48:15 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-12 19:48:15 - __main__ - INFO - ------------------------------------------------------------
+2026-02-12 20:56:01 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-12 20:56:01 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-12 19:54:00-05:00
+2026-02-12 20:56:01 - __main__ - INFO - Collection completed successfully
+2026-02-12 20:56:01 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-12 20:56:01 - __main__ - INFO - ------------------------------------------------------------
+2026-02-12 22:14:33 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-12 22:14:34 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-12 21:54:00-05:00
+2026-02-12 22:14:34 - __main__ - INFO - Collection completed successfully
+2026-02-12 22:14:34 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-12 22:14:34 - __main__ - INFO - ------------------------------------------------------------
