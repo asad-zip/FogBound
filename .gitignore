@@ -38,3 +38,6 @@ postgres_data/
 dist/
 build/
 *.egg-info/
+
+# backups
+/backups

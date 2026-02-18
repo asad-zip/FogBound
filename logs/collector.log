@@ -644,3 +644,1269 @@ DATABASE STATISTICS:
 2026-02-16 12:10:59 - __main__ - INFO - Collection completed successfully
 2026-02-16 12:10:59 - __main__ - INFO - Next collection in 30.0 minutes...
 2026-02-16 12:10:59 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 12:40:59 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 12:40:59 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 11:54:00-05:00
+2026-02-16 12:40:59 - __main__ - INFO - Collection completed successfully
+2026-02-16 12:40:59 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 12:40:59 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 13:10:59 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 13:11:00 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-16 13:11:00 - __main__ - INFO - Collection completed successfully
+2026-02-16 13:11:00 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 13:11:00 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 13:41:00 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 13:41:00 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 13:10:00-05:00
+2026-02-16 13:41:00 - __main__ - INFO - Collection completed successfully
+2026-02-16 13:41:00 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 13:41:00 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 14:15:55 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 14:15:56 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 13:54:00-05:00
+2026-02-16 14:15:56 - __main__ - INFO - Collection completed successfully
+2026-02-16 14:15:56 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 14:15:56 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 14:45:56 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 14:45:56 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 14:10:00-05:00
+2026-02-16 14:45:56 - __main__ - INFO - Collection completed successfully
+2026-02-16 14:45:56 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 14:45:56 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 15:15:56 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 15:15:57 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 14:54:00-05:00
+2026-02-16 15:15:57 - __main__ - INFO - Collection completed successfully
+2026-02-16 15:15:57 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 15:15:57 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 15:45:57 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 15:45:57 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-16 15:45:57 - __main__ - INFO - Collection completed successfully
+2026-02-16 15:45:57 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 15:45:57 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 16:18:34 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 16:18:35 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 15:54:00-05:00
+2026-02-16 16:18:35 - __main__ - INFO - Collection completed successfully
+2026-02-16 16:18:35 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 16:18:35 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 16:48:35 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 16:48:35 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-16 16:48:35 - __main__ - INFO - Collection completed successfully
+2026-02-16 16:48:35 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 16:48:35 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 17:18:35 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 17:18:35 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 16:54:00-05:00
+2026-02-16 17:18:35 - __main__ - INFO - Collection completed successfully
+2026-02-16 17:18:35 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 17:18:35 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 17:50:36 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 17:50:36 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-16 17:50:36 - __main__ - INFO - Collection completed successfully
+2026-02-16 17:50:36 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 17:50:36 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 18:20:36 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 18:20:36 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 17:54:00-05:00
+2026-02-16 18:20:36 - __main__ - INFO - Collection completed successfully
+2026-02-16 18:20:36 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 18:20:36 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 18:50:36 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 18:50:36 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-16 18:50:36 - __main__ - INFO - Collection completed successfully
+2026-02-16 18:50:36 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 18:50:36 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 19:20:36 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 19:20:37 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 18:54:00-05:00
+2026-02-16 19:20:37 - __main__ - INFO - Collection completed successfully
+2026-02-16 19:20:37 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 19:20:37 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 19:50:37 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 19:50:37 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-16 19:50:37 - __main__ - INFO - Collection completed successfully
+2026-02-16 19:50:37 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 19:50:37 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 20:20:37 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 20:20:37 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 19:54:00-05:00
+2026-02-16 20:20:37 - __main__ - INFO - Collection completed successfully
+2026-02-16 20:20:37 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 20:20:37 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 20:50:37 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 20:50:37 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-16 20:50:37 - __main__ - INFO - Collection completed successfully
+2026-02-16 20:50:37 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 20:50:37 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 21:20:38 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 21:20:38 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 20:54:00-05:00
+2026-02-16 21:20:38 - __main__ - INFO - Collection completed successfully
+2026-02-16 21:20:38 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 21:20:38 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 21:50:38 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 21:50:38 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-16 21:50:38 - __main__ - INFO - Collection completed successfully
+2026-02-16 21:50:38 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 21:50:38 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 22:20:38 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 22:20:38 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 21:54:00-05:00
+2026-02-16 22:20:38 - __main__ - INFO - Collection completed successfully
+2026-02-16 22:20:38 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 22:20:38 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 22:50:38 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 22:50:38 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-16 22:50:38 - __main__ - INFO - Collection completed successfully
+2026-02-16 22:50:38 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 22:50:38 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 23:20:38 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 23:20:39 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 22:54:00-05:00
+2026-02-16 23:20:39 - __main__ - INFO - Collection completed successfully
+2026-02-16 23:20:39 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 23:20:39 - __main__ - INFO - ------------------------------------------------------------
+2026-02-16 23:50:39 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-16 23:50:39 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-16 23:50:39 - __main__ - INFO - Collection completed successfully
+2026-02-16 23:50:39 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-16 23:50:39 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 00:20:39 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 00:20:39 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-16 23:54:00-05:00
+2026-02-17 00:20:39 - __main__ - INFO - Collection completed successfully
+2026-02-17 00:20:39 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 00:20:39 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 00:50:39 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 00:50:39 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-17 00:50:39 - __main__ - INFO - Collection completed successfully
+2026-02-17 00:50:39 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 00:50:39 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 01:20:39 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 01:20:40 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 00:54:00-05:00
+2026-02-17 01:20:40 - __main__ - INFO - Collection completed successfully
+2026-02-17 01:20:40 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 01:20:40 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 01:50:40 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 01:50:40 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-17 01:50:40 - __main__ - INFO - Collection completed successfully
+2026-02-17 01:50:40 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 01:50:40 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 02:20:40 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 02:20:40 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 01:54:00-05:00
+2026-02-17 02:20:40 - __main__ - INFO - Collection completed successfully
+2026-02-17 02:20:40 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 02:20:40 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 02:50:40 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 02:50:40 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 02:10:00-05:00
+2026-02-17 02:50:40 - __main__ - INFO - Collection completed successfully
+2026-02-17 02:50:40 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 02:50:40 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 03:20:40 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 03:20:40 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 02:54:00-05:00
+2026-02-17 03:20:40 - __main__ - INFO - Collection completed successfully
+2026-02-17 03:20:40 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 03:20:40 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 03:50:40 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 03:50:41 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-17 03:50:41 - __main__ - INFO - Collection completed successfully
+2026-02-17 03:50:41 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 03:50:41 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 04:20:41 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 04:20:41 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 03:54:00-05:00
+2026-02-17 04:20:41 - __main__ - INFO - Collection completed successfully
+2026-02-17 04:20:41 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 04:20:41 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 04:50:41 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 04:50:41 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 04:23:00-05:00
+2026-02-17 04:50:41 - __main__ - INFO - Collection completed successfully
+2026-02-17 04:50:41 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 04:50:41 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 05:20:41 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 05:20:41 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 04:54:00-05:00
+2026-02-17 05:20:41 - __main__ - INFO - Collection completed successfully
+2026-02-17 05:20:41 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 05:20:41 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 05:50:41 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 05:50:42 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-17 05:50:42 - __main__ - INFO - Collection completed successfully
+2026-02-17 05:50:42 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 05:50:42 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 06:20:42 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 06:20:42 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 05:54:00-05:00
+2026-02-17 06:20:42 - __main__ - INFO - Collection completed successfully
+2026-02-17 06:20:42 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 06:20:42 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 06:50:42 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 06:50:42 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 06:18:00-05:00
+2026-02-17 06:50:42 - __main__ - INFO - Collection completed successfully
+2026-02-17 06:50:42 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 06:50:42 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 07:20:42 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 07:20:42 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 06:54:00-05:00
+2026-02-17 07:20:42 - __main__ - INFO - Collection completed successfully
+2026-02-17 07:20:42 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 07:20:42 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 07:50:42 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 07:50:42 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 07:14:00-05:00
+2026-02-17 07:50:42 - __main__ - INFO - Collection completed successfully
+2026-02-17 07:50:42 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 07:50:42 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 08:20:42 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 08:20:42 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 07:54:00-05:00
+2026-02-17 08:20:42 - __main__ - INFO - Collection completed successfully
+2026-02-17 08:20:42 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 08:20:42 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 08:50:42 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 08:50:42 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 08:25:00-05:00
+2026-02-17 08:50:42 - __main__ - INFO - Collection completed successfully
+2026-02-17 08:50:42 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 08:50:42 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 09:20:42 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 09:20:43 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 08:54:00-05:00
+2026-02-17 09:20:43 - __main__ - INFO - Collection completed successfully
+2026-02-17 09:20:43 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 09:20:43 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 09:50:43 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 09:50:43 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 09:02:00-05:00
+2026-02-17 09:50:43 - __main__ - INFO - Collection completed successfully
+2026-02-17 09:50:43 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 09:50:43 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 10:20:43 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 10:20:43 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 09:54:00-05:00
+2026-02-17 10:20:43 - __main__ - INFO - Collection completed successfully
+2026-02-17 10:20:43 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 10:20:43 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 10:50:43 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 10:50:43 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-17 10:50:43 - __main__ - INFO - Collection completed successfully
+2026-02-17 10:50:43 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 10:50:43 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 11:20:43 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 11:20:43 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 10:54:00-05:00
+2026-02-17 11:20:43 - __main__ - INFO - Collection completed successfully
+2026-02-17 11:20:43 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 11:20:43 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 11:50:43 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 11:50:44 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-17 11:50:44 - __main__ - INFO - Collection completed successfully
+2026-02-17 11:50:44 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 11:50:44 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 12:20:44 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 12:20:44 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 11:40:00-05:00
+2026-02-17 12:20:44 - __main__ - INFO - Collection completed successfully
+2026-02-17 12:20:44 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 12:20:44 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 12:50:44 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 12:50:44 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 12:35:00-05:00
+2026-02-17 12:50:44 - __main__ - INFO - Collection completed successfully
+2026-02-17 12:50:44 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 12:50:44 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 13:20:44 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 13:20:44 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 12:54:00-05:00
+2026-02-17 13:20:44 - __main__ - INFO - Collection completed successfully
+2026-02-17 13:20:44 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 13:20:44 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 13:50:44 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 13:50:44 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-17 13:50:44 - __main__ - INFO - Collection completed successfully
+2026-02-17 13:50:44 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 13:50:44 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 14:20:44 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 14:20:45 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 13:54:00-05:00
+2026-02-17 14:20:45 - __main__ - INFO - Collection completed successfully
+2026-02-17 14:20:45 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 14:20:45 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 15:00:27 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 15:00:27 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 13:56:00-05:00
+2026-02-17 15:00:27 - __main__ - INFO - Collection completed successfully
+2026-02-17 15:00:27 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 15:00:27 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 15:30:27 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 15:30:28 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 14:54:00-05:00
+2026-02-17 15:30:28 - __main__ - INFO - Collection completed successfully
+2026-02-17 15:30:28 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 15:30:28 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 16:00:28 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 16:00:28 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-17 16:00:28 - __main__ - INFO - Collection completed successfully
+2026-02-17 16:00:28 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 16:00:28 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 16:30:28 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 16:30:28 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 15:54:00-05:00
+2026-02-17 16:30:28 - __main__ - INFO - Collection completed successfully
+2026-02-17 16:30:28 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 16:30:28 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 17:36:18 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 17:36:18 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 16:54:00-05:00
+2026-02-17 17:36:18 - __main__ - INFO - Collection completed successfully
+2026-02-17 17:36:18 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 17:36:18 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 19:26:24 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 19:26:24 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 18:54:00-05:00
+2026-02-17 19:26:24 - __main__ - INFO - Collection completed successfully
+2026-02-17 19:26:24 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 19:26:24 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 20:51:31 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 20:51:31 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 20:36:00-05:00
+2026-02-17 20:51:31 - __main__ - INFO - Collection completed successfully
+2026-02-17 20:51:31 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 20:51:31 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 21:52:04 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 21:52:05 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 21:03:00-05:00
+2026-02-17 21:52:05 - __main__ - INFO - Collection completed successfully
+2026-02-17 21:52:05 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 21:52:05 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 22:25:15 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 22:25:15 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 22:08:00-05:00
+2026-02-17 22:25:15 - __main__ - WARNING - 🌫️ FOG DETECTED! Visibility: 400.0m
+2026-02-17 22:25:15 - __main__ - INFO - Collection completed successfully
+2026-02-17 22:25:15 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 22:25:15 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 22:55:15 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 22:55:16 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-17 22:55:16 - __main__ - INFO - Collection completed successfully
+2026-02-17 22:55:16 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 22:55:16 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 23:25:16 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 23:25:17 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 23:04:00-05:00
+2026-02-17 23:25:17 - __main__ - WARNING - 🌫️ FOG DETECTED! Visibility: 800.0m
+2026-02-17 23:25:17 - __main__ - INFO - Collection completed successfully
+2026-02-17 23:25:17 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 23:25:17 - __main__ - INFO - ------------------------------------------------------------
+2026-02-17 23:55:17 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-17 23:55:17 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 23:32:00-05:00
+2026-02-17 23:55:17 - __main__ - INFO - Collection completed successfully
+2026-02-17 23:55:17 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-17 23:55:17 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 00:25:17 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 00:25:17 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-17 23:54:00-05:00
+2026-02-18 00:25:17 - __main__ - WARNING - 🌫️ FOG DETECTED! Visibility: 800.0m
+2026-02-18 00:25:17 - __main__ - INFO - Collection completed successfully
+2026-02-18 00:25:17 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 00:25:17 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 00:55:17 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 00:55:18 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-18 00:08:00-05:00
+2026-02-18 00:55:18 - __main__ - WARNING - 🌫️ FOG DETECTED! Visibility: 400.0m
+2026-02-18 00:55:18 - __main__ - INFO - Collection completed successfully
+2026-02-18 00:55:18 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 00:55:18 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 01:25:18 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 01:25:18 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-18 00:54:00-05:00
+2026-02-18 01:25:18 - __main__ - WARNING - 🌫️ FOG DETECTED! Visibility: 400.0m
+2026-02-18 01:25:18 - __main__ - INFO - Collection completed successfully
+2026-02-18 01:25:18 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 01:25:18 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 01:55:18 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 01:55:18 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-18 01:55:18 - __main__ - INFO - Collection completed successfully
+2026-02-18 01:55:18 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 01:55:18 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 02:25:18 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 02:25:18 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-18 01:54:00-05:00
+2026-02-18 02:25:18 - __main__ - WARNING - 🌫️ FOG DETECTED! Visibility: 400.0m
+2026-02-18 02:25:18 - __main__ - INFO - Collection completed successfully
+2026-02-18 02:25:18 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 02:25:18 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 02:55:18 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 02:55:19 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-18 02:55:19 - __main__ - INFO - Collection completed successfully
+2026-02-18 02:55:19 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 02:55:19 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 03:39:23 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 03:39:23 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-18 02:54:00-05:00
+2026-02-18 03:39:23 - __main__ - WARNING - 🌫️ FOG DETECTED! Visibility: 400.0m
+2026-02-18 03:39:23 - __main__ - INFO - Collection completed successfully
+2026-02-18 03:39:23 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 03:39:23 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 04:09:23 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 04:09:23 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-18 04:09:23 - __main__ - INFO - Collection completed successfully
+2026-02-18 04:09:23 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 04:09:23 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 04:39:23 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 04:39:28 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-18 03:54:00-05:00
+2026-02-18 04:39:28 - __main__ - WARNING - 🌫️ FOG DETECTED! Visibility: 400.0m
+2026-02-18 04:39:28 - __main__ - INFO - Collection completed successfully
+2026-02-18 04:39:28 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 04:39:28 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 05:32:41 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 05:32:41 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-18 04:54:00-05:00
+2026-02-18 05:32:41 - __main__ - WARNING - 🌫️ FOG DETECTED! Visibility: 400.0m
+2026-02-18 05:32:41 - __main__ - INFO - Collection completed successfully
+2026-02-18 05:32:41 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 05:32:41 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 14:26:21 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 14:26:21 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-18 13:54:00-05:00
+2026-02-18 14:26:21 - __main__ - INFO - Collection completed successfully
+2026-02-18 14:26:21 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 14:26:21 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 14:56:21 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 14:56:22 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-18 14:35:00-05:00
+2026-02-18 14:56:22 - __main__ - INFO - Collection completed successfully
+2026-02-18 14:56:22 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 14:56:22 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 15:27:24 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 15:27:25 - __main__ - INFO - ✅ Observation saved: KPNE at 2026-02-18 14:54:00-05:00
+2026-02-18 15:27:25 - __main__ - INFO - Collection completed successfully
+2026-02-18 15:27:25 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 15:27:25 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 16:04:19 - __main__ - INFO - Fetching observation from KPNE...
+2026-02-18 16:04:19 - __main__ - INFO - ⏭️  Observation already exists in database (duplicate - skipping)
+2026-02-18 16:04:19 - __main__ - INFO - Collection completed successfully
+2026-02-18 16:04:19 - __main__ - INFO - Next collection in 30.0 minutes...
+2026-02-18 16:04:19 - __main__ - INFO - ------------------------------------------------------------
+2026-02-18 16:07:57 - __main__ - INFO - ======================================================================
+2026-02-18 16:07:57 - __main__ - INFO - 🌫️  MULTI-STATION BACKFILL
+2026-02-18 16:07:57 - __main__ - INFO - ======================================================================
+2026-02-18 16:07:57 - __main__ - INFO - Backfilling 10 stations
+2026-02-18 16:07:57 - __main__ - INFO - ======================================================================
+2026-02-18 16:07:57 - __main__ - INFO - 
+[1/10] Processing KPNE...
+2026-02-18 16:07:57 - __main__ - INFO - ----------------------------------------------------------------------
+2026-02-18 16:07:57 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:07:57 - src.data.backfill_weathergov - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-18 16:07:57 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:07:57 - src.data.backfill_weathergov - INFO - Station: KPNE
+2026-02-18 16:07:57 - src.data.backfill_weathergov - INFO - Attempting to fetch last 7 days
+2026-02-18 16:07:57 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:07:57 - src.data.backfill_weathergov - INFO - 
+Fetching observations since 2026-02-11...
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - Retrieved 226 observations from API
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - Date range: 2026-02-11T20:54:00+00:00 to 2026-02-18T19:54:00+00:00
+2026-02-18 16:07:58 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:03:00+00:00 - 800.0m visibility
+2026-02-18 16:07:58 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:37:00+00:00 - 800.0m visibility
+2026-02-18 16:07:58 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:24:00+00:00 - 400.0m visibility
+2026-02-18 16:07:58 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:01:00+00:00 - 400.0m visibility
+2026-02-18 16:07:58 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:46:00+00:00 - 800.0m visibility
+2026-02-18 16:07:58 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:54:00+00:00 - 400.0m visibility
+2026-02-18 16:07:58 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:01:00+00:00 - 400.0m visibility
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - 
+======================================================================
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - BACKFILL COMPLETE
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - Total observations fetched: 226
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - Successfully inserted: 85
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - Duplicates skipped: 141
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - Errors: 0
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - 
+DATABASE STATISTICS:
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO -   Total observations: 380
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO -   Fog events (visibility < 1km): 16
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO -   Date range: 2026-02-05 18:54:00-05:00 to 2026-02-18 14:54:00-05:00
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO -   Coverage: 12 days
+2026-02-18 16:07:58 - __main__ - INFO - ✅ KPNE complete
+2026-02-18 16:07:58 - __main__ - INFO - 
+[2/10] Processing KLOM...
+2026-02-18 16:07:58 - __main__ - INFO - ----------------------------------------------------------------------
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - Station: KLOM
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - Attempting to fetch last 7 days
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:07:58 - src.data.backfill_weathergov - INFO - 
+Fetching observations since 2026-02-11...
+2026-02-18 16:07:59 - src.data.backfill_weathergov - INFO - Retrieved 500 observations from API
+2026-02-18 16:07:59 - src.data.backfill_weathergov - INFO - Date range: 2026-02-11T21:55:00+00:00 to 2026-02-18T20:35:00+00:00
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:15:00+00:00 - 800.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:55:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:35:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:15:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:55:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:35:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:15:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:55:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:35:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:15:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:55:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:35:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:15:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:55:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:35:00+00:00 - 800.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:15:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:55:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:35:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:15:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:55:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:35:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:15:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:55:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:35:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:15:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:55:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:35:00+00:00 - 400.0m visibility
+2026-02-18 16:07:59 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:55:00+00:00 - 800.0m visibility
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - 
+======================================================================
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - BACKFILL COMPLETE
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - Total observations fetched: 500
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - Successfully inserted: 500
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - Duplicates skipped: 0
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - Errors: 0
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - 
+DATABASE STATISTICS:
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO -   Total observations: 880
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO -   Fog events (visibility < 1km): 44
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO -   Date range: 2026-02-05 18:54:00-05:00 to 2026-02-18 15:35:00-05:00
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO -   Coverage: 12 days
+2026-02-18 16:08:00 - __main__ - INFO - ✅ KLOM complete
+2026-02-18 16:08:00 - __main__ - INFO - 
+[3/10] Processing KDYL...
+2026-02-18 16:08:00 - __main__ - INFO - ----------------------------------------------------------------------
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - Station: KDYL
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - Attempting to fetch last 7 days
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:00 - src.data.backfill_weathergov - INFO - 
+Fetching observations since 2026-02-11...
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - Retrieved 500 observations from API
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - Date range: 2026-02-17T07:50:00+00:00 to 2026-02-18T20:50:00+00:00
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:00:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:55:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:54:00+00:00 - 800.0m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:50:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:45:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:40:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:30:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:20:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:15:00+00:00 - 386.24m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:10:00+00:00 - 386.24m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:55:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:50:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:45:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:40:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:30:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:20:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:10:00+00:00 - 400.0m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:00:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:55:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:54:00+00:00 - 800.0m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:50:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:45:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:40:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:35:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:30:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:25:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:20:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:15:00+00:00 - 804.67m visibility
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - 
+======================================================================
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - BACKFILL COMPLETE
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - Total observations fetched: 500
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - Successfully inserted: 500
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - Duplicates skipped: 0
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - Errors: 0
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - 
+DATABASE STATISTICS:
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO -   Total observations: 1380
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO -   Fog events (visibility < 1km): 81
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO -   Date range: 2026-02-05 18:54:00-05:00 to 2026-02-18 15:50:00-05:00
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO -   Coverage: 12 days
+2026-02-18 16:08:01 - __main__ - INFO - ✅ KDYL complete
+2026-02-18 16:08:01 - __main__ - INFO - 
+[4/10] Processing KTTN...
+2026-02-18 16:08:01 - __main__ - INFO - ----------------------------------------------------------------------
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - Station: KTTN
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - Attempting to fetch last 7 days
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:01 - src.data.backfill_weathergov - INFO - 
+Fetching observations since 2026-02-11...
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - Retrieved 500 observations from API
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - Date range: 2026-02-17T07:50:00+00:00 to 2026-02-18T20:50:00+00:00
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:10:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:53:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:51:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:50:00+00:00 - 402.34m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:45:00+00:00 - 402.34m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:40:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:25:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:24:00+00:00 - 800.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:20:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:10:00+00:00 - 402.34m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:53:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:30:00+00:00 - 209.21m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:25:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:20:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:15:00+00:00 - 209.21m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:10:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:53:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:30:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:25:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:20:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:15:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:10:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 11:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:53:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:30:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:20:00+00:00 - 402.34m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:10:00+00:00 - 402.34m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:53:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:30:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:25:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:20:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:15:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:10:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:53:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:30:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:25:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:20:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:15:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:10:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:53:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:30:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:25:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:20:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:15:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:10:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:53:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:30:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:25:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:20:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:15:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:10:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:53:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:30:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:25:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:20:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:15:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:10:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:53:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:30:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:25:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:20:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:15:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:10:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:53:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:30:00+00:00 - 386.24m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:24:00+00:00 - 400.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:15:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:10:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:05:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:00:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:55:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:53:00+00:00 - 800.0m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:50:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:45:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:40:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:35:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:30:00+00:00 - 804.67m visibility
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - 
+======================================================================
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - BACKFILL COMPLETE
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - Total observations fetched: 500
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - Successfully inserted: 500
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - Duplicates skipped: 0
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - Errors: 0
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - 
+DATABASE STATISTICS:
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO -   Total observations: 1880
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO -   Fog events (visibility < 1km): 234
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO -   Date range: 2026-02-05 18:54:00-05:00 to 2026-02-18 15:50:00-05:00
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO -   Coverage: 12 days
+2026-02-18 16:08:03 - __main__ - INFO - ✅ KTTN complete
+2026-02-18 16:08:03 - __main__ - INFO - 
+[5/10] Processing KCKZ...
+2026-02-18 16:08:03 - __main__ - INFO - ----------------------------------------------------------------------
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - Station: KCKZ
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - Attempting to fetch last 7 days
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:03 - src.data.backfill_weathergov - INFO - 
+Fetching observations since 2026-02-11...
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - Retrieved 477 observations from API
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - Date range: 2026-02-11T20:15:00+00:00 to 2026-02-18T20:35:00+00:00
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:55:00+00:00 - 800.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 12:15:00+00:00 - 800.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:35:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:55:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:35:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:15:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:55:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:35:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:15:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:55:00+00:00 - 800.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:55:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:35:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:15:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:55:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:35:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:15:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:55:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:35:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:15:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:55:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:35:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:15:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 10:55:00+00:00 - 800.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 10:35:00+00:00 - 800.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 10:15:00+00:00 - 400.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 09:55:00+00:00 - 800.0m visibility
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - 
+======================================================================
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - BACKFILL COMPLETE
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - Total observations fetched: 477
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - Successfully inserted: 477
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - Duplicates skipped: 0
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - Errors: 0
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - 
+DATABASE STATISTICS:
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO -   Total observations: 2357
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO -   Fog events (visibility < 1km): 260
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO -   Date range: 2026-02-05 18:54:00-05:00 to 2026-02-18 15:50:00-05:00
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO -   Coverage: 12 days
+2026-02-18 16:08:06 - __main__ - INFO - ✅ KCKZ complete
+2026-02-18 16:08:06 - __main__ - INFO - 
+[6/10] Processing KPHL...
+2026-02-18 16:08:06 - __main__ - INFO - ----------------------------------------------------------------------
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - Station: KPHL
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - Attempting to fetch last 7 days
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:06 - src.data.backfill_weathergov - INFO - 
+Fetching observations since 2026-02-11...
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - Retrieved 500 observations from API
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - Date range: 2026-02-17T08:54:00+00:00 to 2026-02-18T20:50:00+00:00
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:35:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:30:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:25:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:20:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:15:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:12:00+00:00 - 800.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:10:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:00:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:55:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:50:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:47:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:45:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:40:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:30:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:20:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:12:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:10:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:00:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:50:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:45:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:40:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:30:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:20:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:10:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:01:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:55:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:50:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:45:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:40:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:30:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:20:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:10:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:00:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:55:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:50:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:45:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:40:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:30:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:20:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:10:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:00:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:55:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:50:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:45:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:40:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:30:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:20:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:10:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:00:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:55:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:50:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:45:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:40:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:30:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:20:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:10:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:04:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:00:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 02:55:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 02:54:00+00:00 - 800.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 02:50:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 02:48:00+00:00 - 800.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:30:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:25:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:20:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:15:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:10:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:05:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:00:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:55:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:54:00+00:00 - 800.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:50:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:45:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:40:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:38:00+00:00 - 800.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:30:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:20:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:10:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:00:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:55:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:50:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:45:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:40:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:30:00+00:00 - 402.34m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:29:00+00:00 - 400.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:25:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:20:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:15:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:10:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:05:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:00:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:55:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:54:00+00:00 - 800.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:50:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:45:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:40:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:35:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:30:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:25:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:20:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:15:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:10:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:05:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:00:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 10:55:00+00:00 - 804.67m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 10:54:00+00:00 - 800.0m visibility
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - 
+======================================================================
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - BACKFILL COMPLETE
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - Total observations fetched: 500
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - Successfully inserted: 500
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - Duplicates skipped: 0
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - Errors: 0
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - 
+DATABASE STATISTICS:
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO -   Total observations: 2857
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO -   Fog events (visibility < 1km): 404
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO -   Date range: 2026-02-05 18:54:00-05:00 to 2026-02-18 15:50:00-05:00
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO -   Coverage: 12 days
+2026-02-18 16:08:08 - __main__ - INFO - ✅ KPHL complete
+2026-02-18 16:08:08 - __main__ - INFO - 
+[7/10] Processing KVAY...
+2026-02-18 16:08:08 - __main__ - INFO - ----------------------------------------------------------------------
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - Station: KVAY
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - Attempting to fetch last 7 days
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:08 - src.data.backfill_weathergov - INFO - 
+Fetching observations since 2026-02-11...
+2026-02-18 16:08:09 - src.data.backfill_weathergov - INFO - Retrieved 500 observations from API
+2026-02-18 16:08:09 - src.data.backfill_weathergov - INFO - Date range: 2026-02-15T23:35:00+00:00 to 2026-02-17T12:55:00+00:00
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - 
+======================================================================
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - BACKFILL COMPLETE
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - Total observations fetched: 500
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - Successfully inserted: 500
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - Duplicates skipped: 0
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - Errors: 0
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - 
+DATABASE STATISTICS:
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO -   Total observations: 3357
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO -   Fog events (visibility < 1km): 404
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO -   Date range: 2026-02-05 18:54:00-05:00 to 2026-02-18 15:50:00-05:00
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO -   Coverage: 12 days
+2026-02-18 16:08:10 - __main__ - INFO - ✅ KVAY complete
+2026-02-18 16:08:10 - __main__ - INFO - 
+[8/10] Processing KUKT...
+2026-02-18 16:08:10 - __main__ - INFO - ----------------------------------------------------------------------
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - Station: KUKT
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - Attempting to fetch last 7 days
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:10 - src.data.backfill_weathergov - INFO - 
+Fetching observations since 2026-02-11...
+2026-02-18 16:08:11 - src.data.backfill_weathergov - INFO - Retrieved 500 observations from API
+2026-02-18 16:08:11 - src.data.backfill_weathergov - INFO - Date range: 2026-02-11T22:15:00+00:00 to 2026-02-18T20:35:00+00:00
+2026-02-18 16:08:11 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:15:00+00:00 - 800.0m visibility
+2026-02-18 16:08:11 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:55:00+00:00 - 400.0m visibility
+2026-02-18 16:08:11 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:35:00+00:00 - 400.0m visibility
+2026-02-18 16:08:11 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:15:00+00:00 - 400.0m visibility
+2026-02-18 16:08:11 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:55:00+00:00 - 400.0m visibility
+2026-02-18 16:08:11 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:35:00+00:00 - 400.0m visibility
+2026-02-18 16:08:11 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:55:00+00:00 - 400.0m visibility
+2026-02-18 16:08:11 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:35:00+00:00 - 400.0m visibility
+2026-02-18 16:08:11 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:15:00+00:00 - 400.0m visibility
+2026-02-18 16:08:11 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:15:00+00:00 - 400.0m visibility
+2026-02-18 16:08:11 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 11:55:00+00:00 - 800.0m visibility
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - 
+======================================================================
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - BACKFILL COMPLETE
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - Total observations fetched: 500
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - Successfully inserted: 500
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - Duplicates skipped: 0
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - Errors: 0
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - 
+DATABASE STATISTICS:
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO -   Total observations: 3857
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO -   Fog events (visibility < 1km): 415
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO -   Date range: 2026-02-05 18:54:00-05:00 to 2026-02-18 15:50:00-05:00
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO -   Coverage: 12 days
+2026-02-18 16:08:12 - __main__ - INFO - ✅ KUKT complete
+2026-02-18 16:08:12 - __main__ - INFO - 
+[9/10] Processing KPTW...
+2026-02-18 16:08:12 - __main__ - INFO - ----------------------------------------------------------------------
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - Station: KPTW
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - Attempting to fetch last 7 days
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:12 - src.data.backfill_weathergov - INFO - 
+Fetching observations since 2026-02-11...
+2026-02-18 16:08:13 - src.data.backfill_weathergov - INFO - Retrieved 500 observations from API
+2026-02-18 16:08:13 - src.data.backfill_weathergov - INFO - Date range: 2026-02-17T09:00:00+00:00 to 2026-02-18T20:50:00+00:00
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:55:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:54:00+00:00 - 800.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:50:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:40:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:35:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:30:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:25:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:22:00+00:00 - 800.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:20:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:10:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:55:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:50:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:31:00+00:00 - 400.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:30:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 13:20:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:45:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:40:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:30:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:25:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:20:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:15:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:13:00+00:00 - 800.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:10:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:45:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:40:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:38:00+00:00 - 800.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:35:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:30:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:25:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:20:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:15:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:10:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:05:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:00:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:55:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:50:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:45:00+00:00 - 400.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:40:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:35:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:30:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:28:00+00:00 - 800.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:05:00+00:00 - 800.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:00:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:55:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:35:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:30:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:25:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:20:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:15:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:10:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:05:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:00:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:55:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:54:00+00:00 - 400.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:50:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:45:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:40:00+00:00 - 386.24m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:39:00+00:00 - 400.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:35:00+00:00 - 402.34m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:30:00+00:00 - 804.67m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:28:00+00:00 - 800.0m visibility
+2026-02-18 16:08:13 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:25:00+00:00 - 804.67m visibility
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - 
+======================================================================
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - BACKFILL COMPLETE
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - Total observations fetched: 500
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - Successfully inserted: 500
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - Duplicates skipped: 0
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - Errors: 0
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - 
+DATABASE STATISTICS:
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO -   Total observations: 4357
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO -   Fog events (visibility < 1km): 491
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO -   Date range: 2026-02-05 18:54:00-05:00 to 2026-02-18 15:50:00-05:00
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO -   Coverage: 12 days
+2026-02-18 16:08:14 - __main__ - INFO - ✅ KPTW complete
+2026-02-18 16:08:14 - __main__ - INFO - 
+[10/10] Processing KWRI...
+2026-02-18 16:08:14 - __main__ - INFO - ----------------------------------------------------------------------
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - 🌫️  WEATHER.GOV HISTORIC DATA BACKFILL
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - Station: KWRI
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - Attempting to fetch last 7 days
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:14 - src.data.backfill_weathergov - INFO - 
+Fetching observations since 2026-02-11...
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO - Retrieved 310 observations from API
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO - Date range: 2026-02-11T20:55:00+00:00 to 2026-02-18T20:05:00+00:00
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 16:55:00+00:00 - 800.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 16:34:00+00:00 - 800.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 16:24:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 15:55:00+00:00 - 800.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 15:50:00+00:00 - 600.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 15:30:00+00:00 - 600.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:55:00+00:00 - 600.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:54:00+00:00 - 600.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:49:00+00:00 - 800.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:39:00+00:00 - 600.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 14:34:00+00:00 - 800.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:51:00+00:00 - 800.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:45:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:35:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 10:05:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:55:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:49:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 09:27:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:55:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 08:38:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 07:55:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:55:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 06:11:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 05:55:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:55:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:48:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:37:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:30:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 04:10:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:55:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:53:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:48:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:23:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 03:10:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 02:55:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 02:10:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 02:00:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 01:47:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-18 01:42:00+00:00 - 800.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:44:00+00:00 - 800.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:39:00+00:00 - 600.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:30:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 14:00:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:55:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:47:00+00:00 - 200.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:33:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:23:00+00:00 - 400.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:05:00+00:00 - 600.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 13:00:00+00:00 - 600.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:55:00+00:00 - 800.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - WARNING - 🌫️ FOG: 2026-02-17 12:47:00+00:00 - 800.0m visibility
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO - 
+======================================================================
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO - BACKFILL COMPLETE
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO - Total observations fetched: 310
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO - Successfully inserted: 310
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO - Duplicates skipped: 0
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO - Errors: 0
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO - ======================================================================
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO - 
+DATABASE STATISTICS:
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO -   Total observations: 4667
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO -   Fog events (visibility < 1km): 542
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO -   Date range: 2026-02-05 18:54:00-05:00 to 2026-02-18 15:50:00-05:00
+2026-02-18 16:08:15 - src.data.backfill_weathergov - INFO -   Coverage: 12 days
+2026-02-18 16:08:15 - __main__ - INFO - ✅ KWRI complete
+2026-02-18 16:08:15 - __main__ - INFO - 
+======================================================================
+2026-02-18 16:08:15 - __main__ - INFO - MULTI-STATION BACKFILL COMPLETE
+2026-02-18 16:08:15 - __main__ - INFO - ======================================================================
+2026-02-18 16:11:07 - __main__ - INFO - MultiStationCollector initialized
+2026-02-18 16:11:07 - __main__ - INFO - Stations: 10
+2026-02-18 16:11:07 - __main__ - INFO - Collection interval: 60 minutes (full round)
+2026-02-18 16:11:07 - __main__ - INFO - ======================================================================
+2026-02-18 16:11:07 - __main__ - INFO - 🌫️  FOGBOUND MULTI-STATION COLLECTOR STARTED
+2026-02-18 16:11:07 - __main__ - INFO - ======================================================================
+2026-02-18 16:11:07 - __main__ - INFO - Stations: KPNE, KLOM, KDYL, KTTN, KCKZ, KPHL, KVAY, KUKT, KPTW, KWRI
+2026-02-18 16:11:07 - __main__ - INFO - Interval: 60.0 minutes per round
+2026-02-18 16:11:07 - __main__ - INFO - Press Ctrl+C to stop
+2026-02-18 16:11:07 - __main__ - INFO - ======================================================================
+2026-02-18 16:11:07 - __main__ - INFO - 
+======================================================================
+2026-02-18 16:11:07 - __main__ - INFO - COLLECTION CYCLE #1 - 2026-02-18 16:11:07
+2026-02-18 16:11:07 - __main__ - INFO - ======================================================================
+2026-02-18 16:11:07 - __main__ - INFO - KPNE: ⏭️  Observation already exists (skipping)
+2026-02-18 16:11:10 - __main__ - INFO - KLOM: ⏭️  Observation already exists (skipping)
+2026-02-18 16:11:13 - __main__ - INFO - KDYL: ✅ Saved observation from 2026-02-18 16:00:00-05:00
+2026-02-18 16:11:15 - __main__ - INFO - KTTN: ✅ Saved observation from 2026-02-18 16:00:00-05:00
+2026-02-18 16:11:18 - __main__ - INFO - KCKZ: ⏭️  Observation already exists (skipping)
+2026-02-18 16:11:20 - __main__ - INFO - KPHL: ✅ Saved observation from 2026-02-18 16:00:00-05:00
+2026-02-18 16:11:22 - __main__ - INFO - KVAY: ⏭️  Observation already exists (skipping)
+2026-02-18 16:11:24 - __main__ - INFO - KUKT: ⏭️  Observation already exists (skipping)
+2026-02-18 16:11:27 - __main__ - INFO - KPTW: ✅ Saved observation from 2026-02-18 16:00:00-05:00
+2026-02-18 16:11:30 - __main__ - INFO - KWRI: ⏭️  Observation already exists (skipping)
+2026-02-18 16:11:32 - __main__ - INFO - 
+──────────────────────────────────────────────────────────────────────
+2026-02-18 16:11:32 - __main__ - INFO - Cycle #1 Complete:
+2026-02-18 16:11:32 - __main__ - INFO -   ✅ Successful: 10/10
+2026-02-18 16:11:32 - __main__ - INFO -   ⏭️  Duplicates: 0
+2026-02-18 16:11:32 - __main__ - INFO -   ❌ Failed: 0
+2026-02-18 16:11:32 - __main__ - INFO - ──────────────────────────────────────────────────────────────────────
+2026-02-18 16:11:32 - __main__ - INFO - 
+Next collection in 60.0 minutes...
+2026-02-18 16:11:32 - __main__ - INFO - ======================================================================
+
